@@ -15,8 +15,8 @@
 ![](https://komarev.com/ghpvc/?username=Udity-Banerjee&label=PROFILE+VIEWS)
 
 - 🎓 **CS Engineering Student** at JIS College of Engineering (2022-2026)  
-- 💻 **Full-Stack Developer** with expertise in **React.js, Next.js, Java Spring Boot, Flask, Django**  
-- 🎨 **UI/UX Designer** skilled in **Figma, Adobe XD, Framer, Canva, Spline, Blender**  
+- 💻 **Frontend Developer** with expertise in **React.js, Next.js,Django, TailwindCSS, ShadCN, Framer**  
+- 🎨 **UI/UX Designer** skilled in **Figma, Adobe XD, Canva, Spline, Blender**  
 - 📊 **AI/ML Enthusiast** working with **TensorFlow, Python**  
 - 🚀 Passionate about **creating impactful web applications and intelligent systems**  
 
