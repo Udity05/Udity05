@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;React.js+%7C+Spring+Boot+%7C+Next.js+%7C+TensorFlow;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;React.js+%7C+Next.js+%7C+Django;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
 </p>
 
 ---
